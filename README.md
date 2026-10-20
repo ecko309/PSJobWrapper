@@ -17,7 +17,7 @@ A lightweight PowerShell module designed for managing, monitoring, and safely ex
 
 ---
 
-## Architecture & Module Structure
+## Module Structure
 
 ```
                   ┌──────────────────────┐
